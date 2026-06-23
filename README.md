@@ -8,10 +8,17 @@ Each session features short presentations on the code side of Starsim work: what
 
 | Date | Format | Presenter(s) | Topic |
 |------|--------|--------------|-------|
+| 2026-06-23 | SHOW + TELL | All / Lillian Dillard | Favourite AI skill / helper; modeling nutrition and fetal health |
 | 2026-06-02 | Discussion + TELL | All / Romesh Abeysuriya (Burnet) | What would you like to see on the Starsim website?; cross-section of Starsim applications |
 | 2026-05-19 | SHOW + TELL | All / Daniel | Best Starsim viz; calibration plug-in |
 | 2026-04-28 | Round robin + TELL | All / Emilia Simmons (GVHE) | AI in Starsim workflows; network edge interventions |
 | 2026-03-31 | TELL | Robyn Stuart | [Extending modules without inheritance: hooks in Starsim](20260331_pregnancy_callbacks/) |
+
+### 2026-06-23
+
+**SHOW — all (~15 min): Skill-share.** Drop into the chat your favourite AI skill / helper / prompt. Can be for Starsim modeling but doesn't have to be — data analytics, grill-me sessions, slide prep, anything. We'll do a quick collective tour.
+
+**TELL — Lillian Dillard (~30 min):** Modeling nutrition and fetal health in Starsim.
 
 ### 2026-06-02
 
